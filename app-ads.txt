@@ -1,3 +1,6 @@
+gamob.com, pub-5625871607, DIRECT
+google.com, pub-5882656183054581, RESELLER, f08c47fec0942fa0
+
 google.com, pub-3093268383573515, DIRECT, f08c47fec0942fa0
 facebook.com, 753156816809668, DIRECT, c3e20eee3f780d68
 
